@@ -1,5 +1,3 @@
-# Basic-Calculator
-Create basic Calculator using HTML,CSS and Javascript
 # Basic JS Calculator
 
 A simple and responsive web calculator built with HTML, CSS, and JavaScript.
